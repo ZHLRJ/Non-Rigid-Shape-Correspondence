@@ -12,11 +12,13 @@ Establishing dense shape correspondence across non-rigid 3D surfaces is a long-s
 - Supports matching under **near-isometric deformations**,
 - Can be integrated into existing **functional map pipelines**.
 
-## 🗂️ Project Structure
 
+## 📁 Project Structure
+```text
 Non-Rigid-Shape-Correspondence/
 ├── geometricMedian/     # Karcher mean computation for intrinsic landmark localization
 ├── logarithmicMap/      # Intrinsic logarithmic map computation on triangle meshes
 ├── pyFM/                # Functional map pipeline and shape descriptor tools
 ├── tracinggeodesic/     # Geodesic tracing and shortest path tools
-└── README.md            # Project documentation
+└── README.md            # Project documentation and usage guide
+
