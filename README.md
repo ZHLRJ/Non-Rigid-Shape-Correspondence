@@ -14,7 +14,9 @@ Establishing dense shape correspondence across non-rigid 3D surfaces is a long-s
 
 ## 🗂️ Project Structure
 
-Non-Rigid-Shape-Correspondence/ ├── geometricMedian/ # Karcher mean computation for landmark localization 
-                                ├── logarithmicMap/ # Log map computation on mesh surfaces 
-                                ├── pyFM/ # Functional map interface and shape descriptors 
-                                ├── tracinggeodesic/ # Tools for geodesic tracing between landmarks └── README.md # Project introduction and usage
+Non-Rigid-Shape-Correspondence/
+├── geometricMedian/     # Karcher mean computation for intrinsic landmark localization
+├── logarithmicMap/      # Intrinsic logarithmic map computation on triangle meshes
+├── pyFM/                # Functional map pipeline and shape descriptor tools
+├── tracinggeodesic/     # Geodesic tracing and shortest path tools
+└── README.md            # Project documentation
