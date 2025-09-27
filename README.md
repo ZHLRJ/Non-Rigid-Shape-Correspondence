@@ -1,6 +1,9 @@
 # Non-Rigid-Shape-Correspondence
 
 **Unsupervised Landmark Discovery via Karcher Means for Non-Rigid Shape Correspondence**
+**Sample**: Ordering Landmarks on Non-Uniform Mesh Surfaces
+![demo image of computing ordered landmarks on non-uniform mesh surfaces ](https://github.com/ZHLRJ/Non-Rigid-Shape-Correspondence/blob/main/teaser_cloud.png?raw=true)
+
 
 This repository contains the official implementation of our method for discovering intrinsic landmarks in 3D shapes for dense correspondence tasks. Our approach computes unsupervised, repeatable, and geometrically meaningful landmarks based on the intrinsic geometry of the surface, enabling robust shape matching without the need for manually labeled annotations.
 
