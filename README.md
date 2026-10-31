@@ -25,3 +25,22 @@ Non-Rigid-Shape-Correspondence/
 ├── tracinggeodesic/     # Geodesic tracing and shortest path tools
 └── README.md            # Project documentation and usage guide
 
+
+## 📖 Citation
+
+If you find this work useful in your research, please cite our paper:
+
+```bibtex
+@article{zhang2026landmark,
+  author  = {Zhang, Haoliang and Cheng, Samuel and Amm, Christian El},
+  title   = {Unsupervised landmark discovery via Karcher means for non-rigid shape correspondence},
+  journal = {The Visual Computer},
+  volume  = {42},
+  number  = {1},
+  pages   = {105},
+  year    = {2026},
+  doi     = {10.1007/s00371-025-04326-5},
+  url     = {https://doi.org/10.1007/s00371-025-04326-5}
+}
+```
+
