@@ -24,8 +24,7 @@ Non-Rigid-Shape-Correspondence/
 ├── pyFM/                # Functional map pipeline and shape descriptor tools
 ├── tracinggeodesic/     # Geodesic tracing and shortest path tools
 └── README.md            # Project documentation and usage guide
-
-
+```
 ## 📖 Citation
 
 If you find this work useful in your research, please cite our paper:
